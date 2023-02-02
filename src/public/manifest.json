@@ -1,0 +1,14 @@
+{
+  "manifest_version": 3,
+  "name": "Facebook Ad blocker",
+  "version": "1.0",
+   "content_scripts": [
+    {
+      "js": ["./main.bundle.js"],
+      "css": ["./main.bundle.css"],
+      "matches": [
+        "https://www.facebook.com/*"
+      ]
+    }
+  ]
+}

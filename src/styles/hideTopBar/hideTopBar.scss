@@ -1,0 +1,6 @@
+/*
+    Hide Top bar at first before running script
+*/
+#ssrb_top_of_home_start + div {
+    display: none;
+}
