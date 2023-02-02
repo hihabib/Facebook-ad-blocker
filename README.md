@@ -7,4 +7,4 @@
     <li>Sponsored ad</li>
 </ul>
 <strong>This extension currently works in newsfeed only</strong>
-<div>To install run <code>npm install</code> command to install all the dependences then run <code>npm run build</code> command to build extension file. <b>Then add the build folder to the chrome extension as unpacked extension. This extension is under development</b></div>
+<div>To install run <code>npm install</code> command to install all the dependences then run <code>npm run build</code> command to build extension file. <p><b>Then add the build folder to the chrome extension as unpacked extension. This extension is under development</b></p></div>
